@@ -41,6 +41,7 @@ Svetlana Ceca S
 
 Flutter learner focused on building practical apps and a solid foundation.
 
+---
 
 ## How to Run
 
