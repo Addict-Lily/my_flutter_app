@@ -34,4 +34,15 @@ navigation, state management, and basic app architecture through hands-on exampl
 ```bash
 flutter pub get
 flutter run
+## Notes
+
+This is a learning repository.  
+The code will evolve as I progress through the course and experiment with features.
+
+---
+
+## Author
+
+Svetlana Ceca S 
+Flutter learner focused on building practical apps and a solid foundation.
 
