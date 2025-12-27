@@ -2,8 +2,8 @@
 
 - [x] L01 – Setup 
 - [x] L02 – Widgets & UI Basics
-- [x ] L03 – MaterialApp & Scaffold
-- [ ] L04 – Stateless  Widgets
+- [x] L03 – MaterialApp & Scaffold
+- [x] L04 – Stateless  Widgets
 - [ ] L05 – Containers 
 - [ ] L06 – Imports & Quick  Refactor
 - [ ] L07 – Columns 
