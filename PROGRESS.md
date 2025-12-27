@@ -5,7 +5,7 @@
 - [x] L03 – MaterialApp & Scaffold
 - [x] L04 – Stateless  Widgets
 - [x] L05 – Containers 
-- [ ] L06 – Imports & Quick  Refactor
+- [x] L06 – Imports & Quick  Refactor
 - [ ] L07 – Columns 
 - [ ] L08 – Rows 
 - [ ] L09 – Images 
