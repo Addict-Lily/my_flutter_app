@@ -8,7 +8,7 @@
 - [x] L06 – Imports & Quick Refactor
 - [x] L07 – Columns 
 - [x] L08 – Rows 
-- [ ] L09 – Images 
+- [x] L09 – Images 
 - [ ] L10 – Expanded Widgets
 - [ ] L11 – Buttons & Press Events
 - [ ] L12 – Stateful Widgets
