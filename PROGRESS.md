@@ -6,8 +6,8 @@
 - [x] L04 – Stateless  Widgets
 - [x] L05 – Containers 
 - [x] L06 – Imports & Quick Refactor
-- [ ] L07 – Columns 
-- [ ] L08 – Rows 
+- [x] L07 – Columns 
+- [x] L08 – Rows 
 - [ ] L09 – Images 
 - [ ] L10 – Expanded Widgets
 - [ ] L11 – Buttons & Press Events
