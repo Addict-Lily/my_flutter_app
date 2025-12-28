@@ -9,7 +9,7 @@
 - [x] L07 – Columns 
 - [x] L08 – Rows 
 - [x] L09 – Images 
-- [ ] L10 – Expanded Widgets
+- [x] L10 – Expanded Widgets
 - [ ] L11 – Buttons & Press Events
 - [ ] L12 – Stateful Widgets
 
