@@ -2,7 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_learning_app/home.dart';
 
 void main() {
-  runApp(const MaterialApp(home: Home()));
+  runApp(
+    const MaterialApp(
+      home: Home(),
+    ),
+  );
 }
 
 class Sandbox extends StatelessWidget {
@@ -15,20 +19,24 @@ class Sandbox extends StatelessWidget {
         title: const Text('Sandbox'),
         backgroundColor: Colors.grey,
       ),
+
       body: Row(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.stretch,
+
         children: [
           Container(
             height: 100,
             color: Colors.red,
             child: const Text('one'),
           ),
+
           Container(
             height: 200,
             color: Colors.green,
             child: const Text('two'),
           ),
+
           Container(
             height: 300,
             color: Colors.blue,

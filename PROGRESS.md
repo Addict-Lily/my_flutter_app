@@ -11,7 +11,7 @@
 - [x] L09 – Images 
 - [x] L10 – Expanded Widgets
 - [x] L11 – Buttons & Press Events
-- [ ] L12 – Stateful Widgets
+- [x] L12 – Stateful Widgets
 - [ ] L13 – Control Flow in Lists
 - [ ] L14 – Making Re-usable Widgets
 
