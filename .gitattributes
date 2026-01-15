@@ -1,9 +1,14 @@
-# Ignore platform-specific folders for language stats
+# Force Dart as primary language
+*.dart linguist-language=Dart
+
+# Ignore Flutter generated platform code
 android/** linguist-vendored
 ios/** linguist-vendored
-windows/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
 
-# Ignore generated files
+# Ignore build & tool files
 build/** linguist-vendored
+.dart_tool/** linguist-vendored
